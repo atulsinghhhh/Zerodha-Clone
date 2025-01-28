@@ -21,6 +21,10 @@
     box-sizing: border-box;
     margin: auto;
 }
+.div-right{
+    max-width: 1100px;
+    margin-left: 50px;
+}
 .logo{
     height: 17px;
     margin: 20px 40px;
